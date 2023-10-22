@@ -12,3 +12,4 @@ The application consists of several pages, two of which feature pagination (relo
 - sending requests to the server
 - pagination
 - using the component life cycle
+- routing pages
